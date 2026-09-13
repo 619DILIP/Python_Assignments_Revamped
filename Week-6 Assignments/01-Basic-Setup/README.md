@@ -11,7 +11,7 @@ Get Floci running locally and confirm the AWS CLI can actually talk to it before
    docker pull floci/floci:latest
    ```
 
-2. **Start Floci** using the provided `docker-compose.yml`:
+2. **Start Floci** using the provided `compose.yml`:
    ```
    docker compose up -d
    ```
@@ -19,7 +19,7 @@ Get Floci running locally and confirm the AWS CLI can actually talk to it before
 
 3. **Verify it's actually running:**
    ```
-   curl http://localhost:4566/_localstack/health
+   curl http://localhost:4566/health
    ```
    You should get back a JSON response listing available services.
 
