@@ -23,5 +23,3 @@ This assignment is designed to help you practice working alongside an AI pair-pr
 - The inventory dataset is provided inside `src/data/inventory.csv`.
 - `src/main/lab.py` intentionally has rough code: repeated logic, unclear names, no error handling for missing fields, and an inefficient lookup pattern.
 - Along with your refactored code, submit a short written log covering: what you noticed yourself first, what the AI tool suggested and what you accepted/rejected, and the one suggestion you questioned or pushed back on.
-
-Good luck! 🚀

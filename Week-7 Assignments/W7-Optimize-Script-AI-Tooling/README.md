@@ -23,4 +23,4 @@ This assignment is designed to help you practice the baseline → analyze → ap
 - The sample dataset is provided inside `src/data/customer_ids.csv` - 5,000 customer IDs with roughly 1,000 duplicates deliberately mixed in.
 - `lab.py` contains a working but deliberately inefficient (O(n²)) duplicate-detection function. Don't change what it returns, just how it gets there.
 
-Good luck! 🚀
+

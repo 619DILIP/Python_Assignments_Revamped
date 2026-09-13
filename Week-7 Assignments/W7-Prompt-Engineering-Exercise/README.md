@@ -20,7 +20,7 @@ This assignment is designed to help you practice zero-shot vs. multi-shot prompt
 
 - The 5 sample customer messages are provided inside `src/data/support_messages.json`.
 - `config.json` holds placeholders for whichever AI tool/provider you're using - fill in your own values, don't commit real API keys.
-- You're writing three prompt versions (zero-shot, multi-shot, constrained) — see the TO DO blocks in `lab.py` for what each needs to cover.
+- You're writing three prompt versions (zero-shot, multi-shot, constrained) - see the TO DO blocks in `lab.py` for what each needs to cover.
 - Along with your code, submit a short written comparison covering which version performed most consistently and why, plus one thing you'd change if you did this again.
 
-Good luck! 🚀
+
