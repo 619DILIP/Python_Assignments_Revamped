@@ -20,5 +20,6 @@ This assignment is designed to help you build a simple ETL pipeline that extract
 
 - The `raw_sales_export.csv` dataset is provided inside the `src/data/` folder. It intentionally has real-world mess: missing quantities, missing total prices, inconsistent date formats, and a duplicate row.
 - The code should extract the CSV, clean it according to the rules in `lab.py`, log what got skipped and why, and write the cleaned result to a new CSV.
-
-Good luck! 🚀
+- Everything here can be done with what's covered in the Pandas Fundamentals module (`read_csv`, `dropna`, `fillna`, `to_csv`), with two exceptions worth knowing about going in:
+  - Normalizing the mixed date formats needs a small custom function applied row by row with `.apply()` - the format check itself is conditional logic that doesn't reduce to a single pandas call.
+  - Removing exact duplicate rows uses `.duplicated()`, which isn't in that module. It's a single well-named method: `df.duplicated(subset=[...])` returns `True` for rows that repeat an earlier row's values in the given columns.
