@@ -1,0 +1,2 @@
+This is a sample file for the S3 hands-on exercise.
+If you can see this after downloading it back from your bucket, the round trip worked.
