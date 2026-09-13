@@ -1,0 +1,11 @@
+TransactionID	CustomerID	Product	Quantity	UnitPrice	TotalPrice	TransactionDate	City
+1	CUST050	Spark Intro	2	356.94		13-04-2025	Houston
+2	CUST091	Big Data Essentials	1	421.85	421.85	2025-06-29	Seattle
+3	CUST052	Hadoop Basics		63.01		03-04-2025	San Francisco
+4	CUST027	Spark Intro	1	334.12	334.12	15-01-2025	New York
+5	CUST027	Spark Intro	1	334.12	334.12	15-01-2025	New York
+6	CUST014	Cloud Fundamentals	3	199.50		2025-02-11	Austin
+7	CUST033	SQL for Analysts	2	149.00	298.00	22-02-2025	Denver
+8	CUST019	Data Warehousing 101	1	275.30		2025-03-01	Miami
+9	CUST077	Data Warehousing 101	1	275.30	275.30	09/03/2025	Boston
+10	CUST060	Big Data Essentials	2	421.85		2025-03-18	Portland
