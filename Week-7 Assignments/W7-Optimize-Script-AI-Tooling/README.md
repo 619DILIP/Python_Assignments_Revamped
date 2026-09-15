@@ -1,4 +1,4 @@
-# 🏆 Optimize a Script Using AI Tooling
+# Optimize a Script Using AI Tooling
 
 ## Overview
 
