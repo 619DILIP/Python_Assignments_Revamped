@@ -20,7 +20,7 @@ This matters for two reasons:
    aws --endpoint-url=http://localhost:4566 ec2 describe-instances
    aws --endpoint-url=http://localhost:4566 rds describe-db-instances
    ```
-   Each of these should return empty - no buckets, no instances, no databases.
+   Each of these should return empty responses or no instances or no databases.
 
 2. **Check the health endpoint again**, and this time actually read the response:
    ```
