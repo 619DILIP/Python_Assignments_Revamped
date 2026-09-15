@@ -1,4 +1,4 @@
-# 🏆 Refactor Code Using an AI Pair-Programming Tool
+# Refactor Code Using an AI Pair-Programming Tool
 
 ## Overview
 
