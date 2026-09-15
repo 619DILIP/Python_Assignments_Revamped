@@ -1,4 +1,4 @@
-# 🏆 ETL Data Pipeline Assignment
+# ETL Data Pipeline Assignment
 
 ## Overview
 
