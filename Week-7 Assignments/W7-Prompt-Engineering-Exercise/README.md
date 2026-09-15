@@ -1,4 +1,4 @@
-# 🏆 Prompt Engineering Exercise
+# Prompt Engineering Assignment
 
 ## Overview
 
