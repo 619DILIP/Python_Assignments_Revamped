@@ -1,4 +1,4 @@
-# 🏆 Dimensional Modeling - Star Schema Design Assignment
+# Dimensional Modeling - Star Schema Design Assignment
 
 ## Overview
 
