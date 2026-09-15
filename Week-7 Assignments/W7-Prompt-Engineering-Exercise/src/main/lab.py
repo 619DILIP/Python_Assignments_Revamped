@@ -1,10 +1,9 @@
 import json
 
-# TO DO: Wire up whichever AI tool/model you have access to here.
-# Your task: Replace this stub with a real call to your model provider using
-# the values in config.json.
+# Optional: only needed if you're calling a model programmatically instead of
+# pasting into a chat window. See config.json and the README for that path.
 def call_model(prompt, message):
-    raise NotImplementedError("Connect this to your AI tool of choice")
+    raise NotImplementedError("Optional - connect this only if you have your own API access")
 
 
 def load_messages():
@@ -43,15 +42,30 @@ def run_extraction():
         "constrained": constrained_prompt,
     }
 
-    # TO DO: Run all three prompt versions against the sample messages
-    # Your task: For each prompt version, call the model against at least 2 of
-    # the 5 sample messages and print the results so you can compare them.
+    # TO DO: Record what your AI assistant returned
+    # Your task: For each prompt version, run the prompt against at least 2 of
+    # the 5 sample messages using your AI assistant of choice (chat window, or
+    # call_model() if you have your own API access). Paste the raw response
+    # text you got back into RESULTS below, keyed by prompt version and
+    # message id.
+    #
+    # Example:
+    # RESULTS = {
+    #     "zero_shot": {1: '{"order_id": "48213", ...}', 2: '...'},
+    #     "multi_shot": {1: '...', 2: '...'},
+    #     "constrained": {1: '...', 2: '...'},
+    # }
+    RESULTS = {
+        "zero_shot": {},
+        "multi_shot": {},
+        "constrained": {},
+    }
+
     for name, prompt in prompts.items():
         print(f"\n--- {name} ---")
         for msg in messages[:2]:
-            # result = call_model(prompt, msg["message"])
-            # print(result)
-            pass
+            result = RESULTS.get(name, {}).get(msg["id"], "(not filled in yet)")
+            print(f"Message {msg['id']}: {result}")
 
     print("\n✅ Extraction Run Completed!")
 

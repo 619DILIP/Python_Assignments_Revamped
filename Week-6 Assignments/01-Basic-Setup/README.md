@@ -42,4 +42,4 @@ Stop Floci (`docker compose down`), then start it again. Run the health check an
 
 ## Submit
 
-A screenshot showing the health check response and the `get-caller-identity` output.
+Capture screenshot(s) showing the health check response and the `get-caller-identity` output. These screenshots will be included in your final submission ZIP.

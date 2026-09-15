@@ -6,17 +6,15 @@ This assignment is designed to help you practice the baseline → analyze → ap
 
 ## Instructions
 
-1. Clone the repository to your local system.
+1. Open it in VS Code with your AI pair-programming tool enabled.
 
-2. Open the project in VS Code with your AI coding assistant enabled.
+2. Run `src/main/lab.py` as-is first and record how long it takes - this is your baseline, before you change anything.
 
-3. Run `src/main/lab.py` as-is first and record how long it takes - this is your baseline, before you change anything.
+3. Ask your AI tool to analyze the script and explain why it's slow, not just "make it faster." Apply the suggested change inside `lab.py`, then re-run and confirm it still finds the exact same duplicates as the original.
 
-4. Ask your AI tool to analyze the script and explain why it's slow, not just "make it faster." Apply the suggested change inside `lab.py`, then re-run and confirm it still finds the exact same duplicates as the original.
+4. Time the optimized version and compare it to your baseline. Then construct one edge case yourself (e.g. an empty file, or a file with one ID) and confirm both versions handle it identically.
 
-5. Time the optimized version and compare it to your baseline. Then construct one edge case yourself (e.g. an empty file, or a file with one ID) and confirm both versions handle it identically.
-
-6. Take a screenshot of your baseline and optimized timings side by side, write up the AI tool's explanation in your own words, add both to the assignment folder, and compress the whole folder into a zip file for submission.
+5. Take a screenshot of your baseline and optimized timings side by side, write up the AI tool's explanation in your own words, add both to the assignment folder, and compress the whole folder into a zip file for submission.
 
 ## Notes
 

@@ -47,4 +47,4 @@ aws --endpoint-url=http://localhost:4566 s3api list-object-versions --bucket can
 
 ## Submit
 
-A screenshot of the full Steps 1–5 sequence, plus a screenshot of the versioning task showing two versions of the same file listed.
+Capture screenshot(s) of the full Steps 1–5 sequence, plus a screenshot of the versioning task showing two versions of the same file listed, These screenshots will be included in your final submission ZIP.

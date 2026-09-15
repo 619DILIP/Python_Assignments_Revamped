@@ -6,15 +6,13 @@ This assignment is designed to help you build a simple ETL pipeline that extract
 
 ## Instructions
 
-1. Clone the repository to your local system.
+1. Open it in VS Code.
 
-2. Open the project in VS Code.
+2. Implement your code inside `src/main/lab.py`.
 
-3. Implement your code inside `src/main/lab.py`.
+3. Run your script and check the output.
 
-4. Run your script and check the output.
-
-5. Take a screenshot of your output, add it to the assignment folder, and compress the whole folder into a zip file for submission. If you created a virtual environment (`.venv`) while working on this, remove it before zipping as it's large and not needed for grading.
+4. Take a screenshot of your output, add it to the assignment folder, and compress the whole folder into a zip file for submission. If you created a virtual environment (`.venv`) while working on this, remove it before zipping as it's large and not needed for grading.
 
 ## Notes
 

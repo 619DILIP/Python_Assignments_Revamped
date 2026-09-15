@@ -50,4 +50,4 @@ Launch a second instance, this time passing `--user-data` with a short shell scr
 
 ## Submit
 
-A screenshot of the instance launching, the `docker ps` confirmation, and the user-data task showing your script's output in the container logs.
+Capture screenshot(s) of the instance launching, the `docker ps` confirmation, and the user-data task showing your script's output in the container logs, These screenshots will be included in your final submission ZIP.

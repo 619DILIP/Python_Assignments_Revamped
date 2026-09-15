@@ -64,4 +64,4 @@ Create a second table, `practice_customers` (with at least `id` and `name` colum
 
 ## Submit
 
-A screenshot of your `psql` session showing the setup script running, the `\dt` output, and the query from Step 6, plus a screenshot of your `JOIN` query and its output.
+Capture screenshot(s) of your `psql` session showing the setup script running, the `\dt` output, and the query from Step 6, plus a screenshot of your `JOIN` query and its output, These screenshots will be included in your final submission ZIP.

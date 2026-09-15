@@ -53,4 +53,4 @@ Write your own second policy - this time granting write access (`s3:PutObject`) 
 
 ## Submit
 
-A screenshot of Steps 1–6, plus a screenshot of your own write-access policy JSON and the final `list-attached-user-policies` output showing both policies attached.
+Capture screenshot(s) of Steps 1–6, plus a screenshot of your own write-access policy JSON and the final `list-attached-user-policies` output showing both policies attached, These screenshots will be included in your final submission ZIP.

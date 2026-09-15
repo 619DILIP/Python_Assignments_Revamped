@@ -22,4 +22,4 @@ Add one more step to the script: after listing the bucket contents, have it dele
 
 ## Submit
 
-Your completed `automate.py` and a screenshot of it running end to end.
+Your completed `automate.py` and a screenshot of it running end to end, These will be included in your final submission ZIP.

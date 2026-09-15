@@ -24,7 +24,7 @@ This matters for two reasons:
 
 2. **Check the health endpoint again**, and this time actually read the response:
    ```
-   curl http://localhost:4566/_localstack/health
+   curl http://localhost:4566/health
    ```
    Note which services show as available. You'll be using `s3`, `ec2`, and `rds` in the next three exercises.
 
@@ -34,4 +34,4 @@ In a few sentences, answer: what would you expect to be different if you pointed
 
 ## Submit
 
-A screenshot of the three empty-state commands from Step 1, plus your written answer.
+Capture screenshot(s) of the three empty-state commands from Step 1, plus your written answer, These screenshots will be included in your final submission ZIP.

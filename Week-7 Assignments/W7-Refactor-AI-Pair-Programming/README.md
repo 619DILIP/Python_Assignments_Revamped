@@ -6,17 +6,15 @@ This assignment is designed to help you practice working alongside an AI pair-pr
 
 ## Instructions
 
-1. Clone the repository to your local system.
+1. Open it in VS Code with your AI pair-programming tool enabled.
 
-2. Open the project in VS Code with your AI pair-programming tool enabled.
+2. Before touching anything, read through `src/main/lab.py` yourself and note 2-3 things you'd want to improve.
 
-3. Before touching anything, read through `src/main/lab.py` yourself and note 2-3 things you'd want to improve.
+3. Use your AI pair-programming tool to review the file and suggest readability, structure, and efficiency improvements. Apply changes incrementally, one at a time, re-running the script after each to confirm it still produces correct output.
 
-4. Use your AI pair-programming tool to review the file and suggest readability, structure, and efficiency improvements. Apply changes incrementally, one at a time, re-running the script after each to confirm it still produces correct output.
+4. Somewhere in the process, push back on at least one AI suggestion - either reject it or ask the tool to explain further before accepting it.
 
-5. Somewhere in the process, push back on at least one AI suggestion - either reject it or ask the tool to explain further before accepting it.
-
-6. Take a screenshot of your final output, write up your before/after notes (see below), add both to the assignment folder, and compress the whole folder into a zip file for submission.
+5. Take a screenshot of your final output, write up your before/after notes (see below), add both to the assignment folder, and compress the whole folder into a zip file for submission.
 
 ## Notes
 
