@@ -49,6 +49,7 @@ Copilot's free plan (2,000 completions and 50 chat requests a month, no card nee
 3. Apply the fix. Don't change what the endpoint returns, only how it gets there.
 4. Re-time it and compare to your baseline. You should see a clear, repeatable improvement.
 5. Construct one edge case yourself, such as a category with zero items, and confirm the optimized version handles it the same way the original did.
+6. If you get stuck anywhere in this process, using AI is fine, expected even. Just do it properly: understand what it's telling you instead of taking it on faith. You're meant to do this job with AI's help, not hand the job to AI. Lean on it too hard and the only thing you're shortchanging is your own learning.
 
 ## Submission
 

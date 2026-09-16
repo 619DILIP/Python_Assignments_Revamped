@@ -1,5 +1,0 @@
-{
-    "_note": "Optional - only fill this in if you're using call_model() with your own API access. Most candidates can skip this file entirely.",
-    "model_provider": "your-ai-tool-here",
-    "api_key": "your-api-key-here"
-}
