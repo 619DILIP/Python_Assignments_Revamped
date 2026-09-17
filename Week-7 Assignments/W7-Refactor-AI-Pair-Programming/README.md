@@ -54,6 +54,6 @@ Write up:
 
 - What you noticed yourself before using Copilot.
 - What Copilot suggested, what you accepted, and what you changed or rejected.
-- The one suggestion you pushed back on or questioned, and why.
+- Any suggestions you pushed back on or questioned, and why? OR if you did not push back on any suggestions, why not?
 
 Take a screenshot of the working dashboard, add it to this folder along with your write-up, and compress the whole folder into a zip. If you created a virtual environment (`.venv`) while working, remove it before zipping.
