@@ -40,7 +40,7 @@ Copilot's free plan (2,000 completions and 50 chat requests a month, no card nee
 ## Instructions
 
 1. Read through `backend/main.py` and `frontend/app.js` yourself first. Note down what you notice before you bring in Copilot.
-2. Open both folders in VS Code with Copilot enabled. Start the app (see Setup above) and see what actually breaks in the browser.
+2. Open the project folder in VS Code with Copilot enabled. Start the app (see Setup above), splitting your terminal into two panes, one for the backend, one for the frontend and see what actually breaks in the browser.
 3. Use Copilot to find and fix each issue. Apply changes one at a time and re-test in the browser after each, rather than making every change at once and hoping.
 4. At least one of the issues only shows up when you check the browser's console or network tab, not from reading the code alone. Make sure you've found and fixed that kind before considering this done.
 5. Push back on at least one Copilot suggestion, either rejecting it or asking it to explain before you accept it.
